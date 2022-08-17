@@ -11,7 +11,7 @@ The purpose of this site is twofold:
 In this repository you will find:
 
 * Datasets
-* doFile for STATA
+* doFiles for STATA
 
 ---
 
@@ -19,3 +19,4 @@ In this repository you will find:
 Professor  
 Department of Economics  
 ncachano@msudenver.edu | www.msudenver.edu/economics
+![logo](https://www.msudenver.edu/wp-content/themes/msud/dist/images/logo-top_70a5f0b2.svg)
