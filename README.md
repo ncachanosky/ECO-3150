@@ -15,7 +15,7 @@ In this repository you will find:
 
 ---
 
-**[Nicolás Cachanosky](https://www.ncachanosky.com/)**
+**[Nicolás Cachanosky](https://www.ncachanosky.com/)**  
 Professor  
 Department of Economics  
 ncachano@msudenver.edu | www.msudenver.edu/economics
