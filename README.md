@@ -18,5 +18,5 @@ In this repository you will find:
 **[Nicolás Cachanosky](https://www.ncachanosky.com/)**  
 Professor  
 Department of Economics  
-ncachano@msudenver.edu | www.msudenver.edu/economics
+ncachano@msudenver.edu | www.msudenver.edu/economics  
 ![logo](https://www.msudenver.edu/wp-content/themes/msud/dist/images/logo-top_70a5f0b2.svg)
